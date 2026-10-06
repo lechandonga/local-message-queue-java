@@ -1,4 +1,8 @@
 target/
+
+# 本地消息队列运行时数据（H2 文件库）
+/data/
+data-smoke/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
